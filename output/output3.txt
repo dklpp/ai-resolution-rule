@@ -1,0 +1,14 @@
+[0] A OR C OR D
+Parents: []
+[1] A OR B OR C
+Parents: []
+[2] C OR ~B
+Parents: []
+[3] A OR C
+Parents: [1, 2]
+
+
+
+
+Length of KB: 4
+Num of new sentences: 1

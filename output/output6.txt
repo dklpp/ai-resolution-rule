@@ -1,0 +1,212 @@
+[0] JP OR SP OR CP
+Parents: []
+[1] JA OR SA OR CA
+Parents: []
+[2] JM OR SM OR CM
+Parents: []
+[3] JP OR JA OR JM
+Parents: []
+[4] SP OR SA OR SM
+Parents: []
+[5] CP OR CA OR CM
+Parents: []
+[6] ~JP OR ~SP
+Parents: []
+[7] ~JP OR ~CP
+Parents: []
+[8] ~SP OR ~CP
+Parents: []
+[9] ~JA OR ~SA
+Parents: []
+[10] ~JA OR ~CA
+Parents: []
+[11] ~SA OR ~CA
+Parents: []
+[12] ~JM OR ~SM
+Parents: []
+[13] ~JM OR ~CM
+Parents: []
+[14] ~SM OR ~CM
+Parents: []
+[15] ~JP OR ~JA
+Parents: []
+[16] ~JP OR ~JM
+Parents: []
+[17] ~JA OR ~JM
+Parents: []
+[18] ~SP OR ~SA
+Parents: []
+[19] ~SP OR ~SM
+Parents: []
+[20] ~SA OR ~SM
+Parents: []
+[21] ~CP OR ~CA
+Parents: []
+[22] ~CP OR ~CM
+Parents: []
+[23] ~CA OR ~CM
+Parents: []
+[24] ~JP
+Parents: []
+[25] ~JM
+Parents: []
+[26] ~SM
+Parents: []
+[27] ~JA OR CP OR SP
+Parents: [0, 15]
+[28] ~SA OR CP OR JP
+Parents: [0, 18]
+[29] JP OR SP OR ~CA
+Parents: [0, 21]
+[30] ~CM OR JP OR SP
+Parents: [0, 22]
+[31] CP OR SP
+Parents: [0, 24]
+[32] CA OR JA OR ~SP
+Parents: [1, 18]
+[33] ~CP OR JA OR SA
+Parents: [1, 21]
+[34] ~CM OR JA OR SA
+Parents: [1, 23]
+[35] CA OR JA OR CP OR JP
+Parents: [1, 28]
+[36] JA OR SA OR JP OR SP
+Parents: [1, 29]
+[37] ~JA OR CM OR SM
+Parents: [2, 17]
+[38] JM OR ~SP OR CM
+Parents: [2, 19]
+[39] JM OR ~SA OR CM
+Parents: [2, 20]
+[40] JM OR ~CP OR SM
+Parents: [2, 22]
+[41] JM OR SM OR ~CA
+Parents: [2, 23]
+[42] CM OR SM
+Parents: [2, 25]
+[43] JM OR CM
+Parents: [2, 26]
+[44] JM OR SM OR JP OR SP
+Parents: [2, 30]
+[45] JM OR JA OR SA OR SM
+Parents: [2, 34]
+[46] JM OR JA OR ~SP
+Parents: [3, 6]
+[47] JM OR ~CP OR JA
+Parents: [3, 7]
+[48] JM OR ~SA OR JP
+Parents: [3, 9]
+[49] JM OR JP OR ~CA
+Parents: [3, 10]
+[50] ~CM OR JA OR JP
+Parents: [3, 13]
+[51] JM OR JA
+Parents: [3, 24]
+[52] JA OR JP
+Parents: [3, 25]
+[53] ~CP OR SA OR SM
+Parents: [4, 8]
+[54] SM OR ~JA OR SP
+Parents: [4, 9]
+[55] SM OR SP OR ~CA
+Parents: [4, 11]
+[56] ~CM OR SA OR SP
+Parents: [4, 14]
+[57] SA OR SP
+Parents: [4, 26]
+[58] CA OR ~SP OR CM
+Parents: [5, 8]
+[59] ~JA OR CP OR CM
+Parents: [5, 10]
+[60] ~SA OR CP OR CM
+Parents: [5, 11]
+[61] JM OR ~SP OR ~CA
+Parents: [6, 49]
+[62] ~CM OR JA OR ~SP
+Parents: [6, 50]
+[63] JA OR ~SP
+Parents: [6, 52]
+[64] JM OR ~CP OR ~SA
+Parents: [7, 48]
+[65] ~CP OR JA
+Parents: [7, 52]
+[66] ~CP OR ~JA OR SM
+Parents: [8, 54]
+[67] ~CP OR SA
+Parents: [8, 57]
+[68] ~SP OR ~JA OR CM
+Parents: [8, 59]
+[69] ~SA OR JP OR ~CM
+Parents: [9, 50]
+[70] ~SA OR JM
+Parents: [9, 51]
+[71] ~SA OR JP
+Parents: [9, 52]
+[72] ~CM OR ~JA OR SP
+Parents: [9, 56]
+[73] ~JA OR SP
+Parents: [9, 57]
+[74] ~SA OR ~CP
+Parents: [9, 65]
+[75] ~CP OR ~JA
+Parents: [9, 67]
+[76] JM OR ~CA
+Parents: [10, 51]
+[77] JP OR ~CA
+Parents: [10, 52]
+[78] ~SP OR ~CA
+Parents: [10, 63]
+[79] SP OR ~CA
+Parents: [11, 57]
+[80] ~CM OR JA
+Parents: [13, 51]
+[81] ~CM OR ~SA
+Parents: [13, 70]
+[82] ~JA OR CM
+Parents: [17, 43]
+[83] ~SA OR CP
+Parents: [18, 31]
+[84] ~SP OR CM
+Parents: [19, 42]
+[85] ~SA OR CM
+Parents: [20, 42]
+[86] ~CM OR SP
+Parents: [22, 31]
+[87] ~CP OR SM
+Parents: [22, 42]
+[88] JM OR ~CP
+Parents: [22, 43]
+[89] SM OR ~CA
+Parents: [23, 42]
+[90] CA OR JA OR CP
+Parents: [24, 35]
+[91] JM OR SP OR SM
+Parents: [24, 44]
+[92] JA
+Parents: [24, 52]
+[93] ~SA
+Parents: [24, 71]
+[94] ~CA
+Parents: [24, 77]
+[95] CM
+Parents: [25, 43]
+[96] SP OR JP OR SM
+Parents: [25, 44]
+[97] ~CP
+Parents: [25, 88]
+[98] SM OR SP
+Parents: [25, 91]
+[99] JM OR JP OR SP
+Parents: [26, 44]
+[100] JM OR SP
+Parents: [26, 91]
+[101] JP OR SP
+Parents: [26, 96]
+[102] SP
+Parents: [26, 98]
+
+
+
+
+Length of KB: 103
+Num of new sentences: 76
