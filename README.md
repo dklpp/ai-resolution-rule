@@ -12,4 +12,7 @@ Output file will index all the sentences and derive new sentences. For each new 
 There are already 6 input tests. You can check the program on any other input you wish.
 
 
+* Please notice that above "-" was used to mean "tilda" due to the unexpected reaction of readme file on real tilde.
+
+
 
